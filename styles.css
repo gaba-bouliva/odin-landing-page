@@ -1,3 +1,6 @@
+body{
+    margin: 0px;
+}
 .header{
     height: 550px;
     color: #fff;
@@ -123,3 +126,28 @@ margin: 20px;
     display: flex;
     justify-content: end;
 }
+.call-to-action{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.call-to-action-banner{
+    width: 800px;
+    height: 150px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #fff;
+}
+.call-to-action-text > h3{
+   margin: 0px;
+}
+
+.white-border{
+    border: 2px solid #fff;
+}
+
