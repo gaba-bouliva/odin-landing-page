@@ -66,7 +66,12 @@ margin-left: 200px;
 }
 .random-info{
     margin-top: 10px;
-}
+    height: 400px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+} 
 .img-box{
     border: 3px solid blue;
     border-radius: 10px;
@@ -97,4 +102,24 @@ margin: 20px;
 .thumbnail-info{
     display: flex;
     justify-content: center;
+}
+
+.quote-section{
+    background-color: #e5e7eb;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#inpsiration-quote{
+    width: 800px;
+    font-size: 36px;
+    font-style: italic;
+    
+}
+
+.quote-author{
+    display: flex;
+    justify-content: end;
 }
