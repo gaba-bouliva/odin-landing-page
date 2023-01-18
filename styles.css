@@ -3,7 +3,7 @@
     color: #fff;
     background-color: #1F2937;
     font-family: sans-serif;
-    
+
 }
 
 .header-content{
@@ -63,4 +63,38 @@ margin-left: 200px;
     color: #fff;
     height: 30px;
     width: 100px;
+}
+.random-info{
+    margin-top: 10px;
+}
+.img-box{
+    border: 3px solid blue;
+    border-radius: 10px;
+    background-color: #F9FAF8;
+    width: 130px;
+    height: 130px;
+}
+
+.img-text{
+ margin-top: 1px;
+ text-align: center;
+}
+
+.section-heading{
+font-size: 24px;
+font-weight: bold;
+font-family: sans-serif;
+display: flex;
+justify-content: center;
+margin: 20px;
+}
+
+.info-img{
+    max-width: 130px;
+    margin: 20px;
+}
+
+.thumbnail-info{
+    display: flex;
+    justify-content: center;
 }
