@@ -2,18 +2,17 @@ body{
     margin: 0px;
 }
 .header{
-    height: 550px;
+    height: 500px;
     color: #fff;
     background-color: #1F2937;
     font-family: sans-serif;
-
 }
 
 .header-content{
     display: flex;
     justify-content: space-evenly;
     margin-top: 50px;
-    
+    padding-top: 50px;
 }
 .header-text{
     max-width: 30%;
@@ -149,5 +148,14 @@ margin: 20px;
 
 .white-border{
     border: 2px solid #fff;
+
 }
 
+.footer{
+    background-color: #1F2937;
+    color: #fff;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
